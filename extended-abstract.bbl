@@ -32,11 +32,53 @@
 \ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
 \ifx \showURL      \undefined \def \showURL       #1{#1}          \fi
 
+\bibitem{ahn2015supporting}
+{Junho Ahn}, {James Williamson}, {Mike Gartrell}, {Richard Han}, {Qin Lv},
+  {and} {Shivakant Mishra}. 2015.
+\newblock \showarticletitle{Supporting healthy grocery shopping via mobile
+  augmented reality}.
+\newblock {\em ACM Transactions on Multimedia Computing, Communications, and
+  Applications (TOMM)\/} {12}, 1s (2015), 16.
+\newblock
+
+
 \bibitem{bednarz2010perceptions}
 {MICHELLE BEDNARZ} {and} {N Ponder}. 2010.
 \newblock \showarticletitle{Perceptions of retail convenience for in-store and
   online shoppers}.
 \newblock {\em Marketing Management Journal\/} (2010), 49.
+\newblock
+
+
+\bibitem{benko2015fovear}
+{Hrvoje Benko}, {Eyal Ofek}, {Feng Zheng}, {and} {Andrew~D Wilson}. 2015.
+\newblock \showarticletitle{Fovear: Combining an optically see-through near-eye
+  display with projector-based spatial augmented reality}. In {\em Proceedings
+  of the 28th Annual ACM Symposium on User Interface Software \& Technology}.
+  ACM, 129--135.
+\newblock
+
+
+\bibitem{benko2014dyadic}
+{Hrvoje Benko}, {Andrew~D Wilson}, {and} {Federico Zannier}. 2014.
+\newblock \showarticletitle{Dyadic projected spatial augmented reality}. In
+  {\em Proceedings of the 27th annual ACM symposium on User interface software
+  and technology}. ACM, 645--655.
+\newblock
+
+
+\bibitem{bimber2005spatial}
+{Oliver Bimber} {and} {Ramesh Raskar}. 2005.
+\newblock {\em Spatial augmented reality: merging real and virtual worlds}.
+\newblock CRC press.
+\newblock
+
+
+\bibitem{esser2016head}
+{Ralf Esser} {and} {Leif Oppermann}. 2016.
+\newblock \showarticletitle{Head-Mounted Displays in German Companies A
+  Virtual, Augmented and Mixed Reality Check}.
+\newblock {\em i-com\/} {15}, 2 (2016), 211--217.
 \newblock
 
 
@@ -48,11 +90,84 @@
 \newblock
 
 
+\bibitem{kourouthanassis2007enhancing}
+{Panos~E Kourouthanassis}, {George~M Giaglis}, {and} {Adam~P Vrechopoulos}.
+  2007.
+\newblock \showarticletitle{Enhancing user experience through pervasive
+  information systems: The case of pervasive retailing}.
+\newblock {\em International Journal of Information Management\/} {27}, 5
+  (2007), 319--335.
+\newblock
+
+
 \bibitem{miyazaki2001consumer}
 {Anthony~D Miyazaki} {and} {Ana Fernandez}. 2001.
 \newblock \showarticletitle{Consumer perceptions of privacy and security risks
   for online shopping}.
 \newblock {\em Journal of Consumer affairs\/} {35}, 1 (2001), 27--44.
+\newblock
+
+
+\bibitem{olsson2013expected}
+{Thomas Olsson}, {Else Lagerstam}, {Tuula K{\"a}rkk{\"a}inen}, {and} {Kaisa
+  V{\"a}{\"a}n{\"a}nen-Vainio-Mattila}. 2013.
+\newblock \showarticletitle{Expected user experience of mobile augmented
+  reality services: a user study in the context of shopping centres}.
+\newblock {\em Personal and ubiquitous computing\/} {17}, 2 (2013), 287--304.
+\newblock
+
+
+\bibitem{pinhanez2001everywhere}
+{Claudio Pinhanez}. 2001.
+\newblock \showarticletitle{The everywhere displays projector: A device to
+  create ubiquitous graphical interfaces}. In {\em International Conference on
+  Ubiquitous Computing}. Springer, 315--331.
+\newblock
+
+
+\bibitem{santos2016augmented}
+{Marc Ericson~C Santos}, {Takafumi Taketomi}, {Goshiro Yamamoto},
+  {Ma~Mercedes~T Rodrigo}, {Christian Sandor}, {Hirokazu Kato}, {and} {others}.
+  2016.
+\newblock \showarticletitle{Augmented reality as multimedia: the case for
+  situated vocabulary learning}.
+\newblock {\em Research and Practice in Technology Enhanced Learning\/} {11}, 1
+  (2016), 1.
+\newblock
+
+
+\bibitem{spreer2012improving}
+{Philipp Spreer}, {Katrin Kallweit}, {and} {Klaus Gutknecht}. 2012.
+\newblock \showarticletitle{Improving the In-Store Customer Information Process
+  using Mobile Augmented Reality}. In {\em Proceedings of the 11th
+  International Conference on Research in Advertising (ICORIA)}.
+\newblock
+
+
+\bibitem{stoyanova2015comparison}
+{Jasmina Stoyanova}, {Pedro~Quelhas Brito}, {Petia Georgieva}, {and}
+  {Mariofanna Milanova}. 2015.
+\newblock \showarticletitle{Comparison of consumer purchase intention between
+  interactive and Augmented Reality shopping platforms through statistical
+  analyses}. In {\em Innovations in Intelligent SysTems and Applications
+  (INISTA), 2015 International Symposium on}. IEEE, 1--8.
+\newblock
+
+
+\bibitem{truong2013today}
+{A Truong}. 2013.
+\newblock \showarticletitle{Today’s Most Innovative Company: IKEA Uses
+  Augmented Reality to Show How Furniture Fits in a Room}.
+\newblock {\em Fast Company\/}  {26} (2013).
+\newblock
+
+
+\bibitem{zhu2004personalized}
+{Wei Zhu}, {Charles~B Owen}, {Hairong Li}, {and} {Joo-Hyun Lee}. 2004.
+\newblock \showarticletitle{Personalized in-store e-commerce with the promopad:
+  an augmented reality shopping assistant}.
+\newblock {\em Electronic Journal for E-commerce Tools and Applications\/} {1},
+  3 (2004), 1--19.
 \newblock
 
 

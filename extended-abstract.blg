@@ -1,5 +1,22 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: extended-abstract.aux
 The style file: SIGCHI-Reference-Format.bst
 Database file #1: sample.bib
+Repeated entry---line 286 of file sample.bib
+ : @article{esser2016head
+ :                       ,
+I'm skipping whatever remains of this entry
 Warning--no number and no volume in bednarz2010perceptions
-(There was 1 warning)
+Warning--empty publisher in benko2015fovear
+Warning--empty address in benko2015fovear
+Warning--empty publisher in benko2014dyadic
+Warning--empty address in benko2014dyadic
+Warning--empty address in bimber2005spatial
+Warning--empty publisher in pinhanez2001everywhere
+Warning--empty address in pinhanez2001everywhere
+Warning--empty publisher in spreer2012improving
+Warning--empty address in spreer2012improving
+Warning--page numbers missing in both pages and numpages fields in spreer2012improving
+Warning--empty publisher in stoyanova2015comparison
+Warning--empty address in stoyanova2015comparison
+Warning--page numbers missing in both pages and numpages fields in truong2013today
+(There was 1 error message)
