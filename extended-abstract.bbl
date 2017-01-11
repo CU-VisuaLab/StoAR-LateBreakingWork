@@ -117,14 +117,6 @@
 \newblock
 
 
-\bibitem{pinhanez2001everywhere}
-{Claudio Pinhanez}. 2001.
-\newblock \showarticletitle{The everywhere displays projector: A device to
-  create ubiquitous graphical interfaces}. In {\em International Conference on
-  Ubiquitous Computing}. Springer, 315--331.
-\newblock
-
-
 \bibitem{santos2016augmented}
 {Marc Ericson~C Santos}, {Takafumi Taketomi}, {Goshiro Yamamoto},
   {Ma~Mercedes~T Rodrigo}, {Christian Sandor}, {Hirokazu Kato}, {and} {others}.
@@ -141,6 +133,13 @@
 \newblock \showarticletitle{Improving the In-Store Customer Information Process
   using Mobile Augmented Reality}. In {\em Proceedings of the 11th
   International Conference on Research in Advertising (ICORIA)}.
+\newblock
+
+
+\bibitem{nyt}
+{Laura Stevens}. 2016.
+\newblock Survey Shows Rapid Growth in Online Shopping.
+\newblock New York Times.   (June 2016).
 \newblock
 
 
